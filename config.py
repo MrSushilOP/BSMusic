@@ -26,8 +26,6 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", None))
 OWNER_ID = int(getenv("OWNER_ID", False))
 CO_OWNER_ID = int(getenv("CO_OWNER_ID", False))
 
-
-
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
