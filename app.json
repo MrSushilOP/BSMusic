@@ -63,7 +63,7 @@
 
         "value": "",
 
-        "required": true
+        "required": true 
 
       },
 
@@ -73,7 +73,7 @@
 
         "value": "",
 
-        "required": true
+        "required": false
 
       },
         
@@ -83,7 +83,7 @@
 
         "value": "",
 
-        "required": true
+        "required": false
 
       },
 
@@ -101,7 +101,7 @@
 
         "description": "The maximum allowed duration in minutes.",
 
-        "value": "",
+        "value": "999",
 
         "required": true
 
