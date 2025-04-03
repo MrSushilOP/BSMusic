@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=👾𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ - @𝐌ʀ𝐒ᴜsʜɪʟ𝐎𝐏👾">
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
