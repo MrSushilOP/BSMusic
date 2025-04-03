@@ -1,4 +1,10 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines= 𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ - @𝐌ʀ𝐒ᴜsʜɪʟ𝐎𝐏">
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+
+<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
+</h3>
+
+[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/MrSushilOP/AloneX)
 
 <p align="center">
   <img src="https://files.catbox.moe/vpox28.jpg" alt="Selx Music Logo" width="600" height="400">
