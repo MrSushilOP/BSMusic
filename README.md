@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Selx Music Bot 🎵</h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines= 𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ - @𝐌ʀ𝐒ᴜsʜɪʟ𝐎𝐏">
 
 <p align="center">
   <img src="https://files.catbox.moe/vpox28.jpg" alt="Selx Music Logo" width="600" height="400">
